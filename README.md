@@ -40,7 +40,7 @@ A análise da eficiência do sono, considerando fatores de estilo de vida, como 
 ## Desenvolvedores
  - [Alan de Oliveira Gonçalves](https://github.com/Alan-oliveir)
  - [Ayrton Lucas Viana Albuquerque Silva]()
- - [Cauan Halison Arantes de Oliveira]()
+ - [Cauan Halison Arantes de Oliveira](https://github.com/CauanHalison)
  - [Hosana Maria Ferro Dias]()
   
  ## Organização de Diretórios
